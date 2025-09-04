@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ch.juventus.object","l":"Address"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ch.juventus.object","l":"Application"},{"p":"ch.juventus.javadoc","l":"MathUtils"},{"p":"ch.juventus.object","l":"Person"}];updateSearchResults();
