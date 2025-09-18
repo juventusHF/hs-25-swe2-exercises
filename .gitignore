@@ -24,8 +24,4 @@ hs_err_pid*
 replay_pid*
 
 # idea
-/.idea/.gitignore
-/.idea/hs-25-swe2-exercises.iml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/vcs.xml
+/.idea/**
