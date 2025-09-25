@@ -5,6 +5,11 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
+/**
+ * Contains three different versions of the same method.
+ * The method takes a map and a value.
+ * It filters the map so that it only contains entries with the given value.
+ */
 public class MapFilter {
 
     public <K, V> Map<K, V> cleanupV1(Map<K, V> input, V value) {
