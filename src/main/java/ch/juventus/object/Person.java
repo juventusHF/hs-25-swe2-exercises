@@ -26,6 +26,14 @@ public class Person {
         this.hasPet = false;
     }
 
+    public Person(String firstName, int age) {
+        this.age = age;
+        this.firstName = firstName;
+        this.lastName = "";
+        this.address = null;
+        this.hasPet = false;
+    }
+
     public String getFirstName() {
         return firstName;
     }
